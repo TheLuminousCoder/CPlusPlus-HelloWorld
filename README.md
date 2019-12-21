@@ -1,2 +1,9 @@
 # hello-world.cpp
-C++ Bonjour le monde!
+
+Bonjour le monde!
+
+Here is the first of many C++ programs.
+
+Enjoy!
+
+
